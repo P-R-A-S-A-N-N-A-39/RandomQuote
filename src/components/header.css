@@ -1,0 +1,76 @@
+
+.home {
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title {
+  background-color: #d9dccf;
+  color: rgb(1, 1, 1);
+border: #fdfafa;
+  padding: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.title h1 {
+  font-size: 3rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.title p {
+  font-size: 1.5rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.home {
+  padding: 2rem;
+  text-align: center;
+  background-color: #d9dccf;
+  color: rgb(13, 13, 13);
+}
+
+.home h2 {
+  font-size: 2.5rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.home p {
+  font-size: 1.5rem;
+  line-height: 1.5;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: white;
+  background-color: #070707;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #555353;
+}
+.home {
+  
+  background-size: cover;
+  background-position: center;
+ 
+}
+.guru{
+  color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 0.5rem;
+}
